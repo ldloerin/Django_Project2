@@ -14,7 +14,7 @@ Prepare the environment:
 
 Install Django:
 
-- be sure the folder of the virtual environment(here it's v_env) is rendered in the console
+- be sure the folder of the virtual environment (here it's v_env) is rendered in the console
 - python -m pip install django
 - pin the django-python dependencies (make sure requirements.txt exists)
   python -m pip freeze > requirements.txt
